@@ -296,8 +296,11 @@
 
   "onboarding-finished-button": "BEGIN THE ADVENTURE",
 
-  "vr-legend-title": "AQI map",
-  "vr-legend-text": "This is a map of Europe showing the air quality index (AQI) on [xxx day]. In the map, you can see how good the air quality is in each region based on the AQI colours. Explore the map and try to compare the air quality in different cities!",
+  "vr-legend-lesson7-title": "AQI map",
+  "vr-legend-lesson8-title": "AQI map Barcelona",
+  
+  "vr-legend-lesson7-text": "This is a map of Europe showing the air quality index (AQI) on [xxx day]. In the map, you can see how good the air quality is in each region based on the AQI colours. Explore the map and try to compare the air quality in different cities!",
+  "vr-legend-lesson8-text": "This is a map of Europe showing the air quality index (AQI) on [xxx day]. In the map, you can see how good the air quality is in each region based on the AQI colours. Explore the map and try to compare the air quality in different cities!",
 
   "about-section1-title": "GreenAIR",
   "about-section2-title": "GreenSCENT",
