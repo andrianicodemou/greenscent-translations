@@ -7,6 +7,8 @@
   "discover-finished-button": "CONTINUE",
   "boolean-question-instructions": "Select the correct answer and click submit.",
 
+  "example": "example",
+
   "resume-button-label": "Resume",
   "restart-button-label": "Restart",
   "quit-button-label": "Quit",
