@@ -311,8 +311,8 @@
   "vr-legend-lesson7-title": "AQI map",
   "vr-legend-lesson8-title": "AQI map Barcelona",
   
-  "vr-legend-lesson7-text": "This is a map of Europe showing the air quality index (AQI) on [xxx day]. In the map, you can see how good the air quality is in each region based on the AQI colours. Explore the map and try to compare the air quality in different cities!",
-  "vr-legend-lesson8-text": "This is a map of Europe showing the air quality index (AQI) on [xxx day]. In the map, you can see how good the air quality is in each region based on the AQI colours. Explore the map and try to compare the air quality in different cities!",
+  "vr-legend-lesson7-text": "This is a map of the average air quality index (AQI) in Europe during autumn 2016. You can see how good the air quality is in each region based on the AQI colours. For example, the air was cleaner in Spain than Northern Italy. These data are outputs of the CALIOPE modelling system from Barcelona Supercomputing Center (more in ‘About’). Explore the map and respond to the challenge questions.",
+  "vr-legend-lesson8-text": "This is a map of Barcelona, Spain, showing the air quality index (AQI) across the city at two different times on the same day. In the map, you can see how the air quality changes depending on the time. For example, poor air quality at unhealthy levels is seen in roads with more traffic or industrial areas in early morning. These data are outputs of the CALIOPE modelling system from Barcelona Supercomputing Center (more in ‘About’). Explore the map and respond the challenge questions!",
 
   "about-section1-title": "GreenAIR",
   "about-section2-title": "GreenSCENT",
@@ -330,9 +330,16 @@
 
   "help-text1": "We're here to ensure your learning journey with our app is as smooth as a bird in flight. Explore our FAQs",
   "help-text2": "Do you need more help? Don’t worry we are just an email away",
-  "help-discoverdropdown-1-title": "What are the system requirements for using the app?",
-  "help-discoverdropdown-2-title": "How do I reset my data? How is my personal information handled?",
-  "help-discoverdropdown-3-title": "Which lessons incorporate Augmented Reality?",
-  "help-discoverdropdown-4-title": "What devices are compatible with the AR features?",
-  "help-discoverdropdown-5-title": "Can I track my progress or achievements?"
+  "help-discoverdropdown-1-title": "How do I reset my data? How is my personal information handled?",
+  "help-discoverdropdown-2-title": "Which lessons incorporate Augmented Reality?",
+  "help-discoverdropdown-3-title": "Can I track my progress or achievements?",
+  "help-discoverdropdown-4-title": "Will the app be updated?",
+  "help-discoverdropdown-5-title": "I'm experiencing technical issues. What should I do?"
+
+  "help-discoverdropdown-1-desc":"If you would like to reset your app data and progress, visit the ‘Profile’ section in the bottom menu and click on ‘Erase my data’ at the top. Note that we do not collect or save any user data from your device.",
+  "help-discoverdropdown-2-desc":"Augmented reality features are incorporated in following lessons: What we can’t see; The colours of air quality; and Comparing air quality.",
+  "help-discoverdropdown-3-desc":"After exploring each lesson, you will reach a challenge, which puts to the test your acquired knowledge. If you respond to all questions correctly, you will complete the lesson. You can check your progress and trophies collected in your profile, found in the menu at the bottom.",
+  "help-discoverdropdown-4-desc":"As the app has an educational purpose, all content is available in this version, and no further updates are expected.",
+  "help-discoverdropdown-5-desc":"You can get in touch with us using the button below.",
+  
 }
