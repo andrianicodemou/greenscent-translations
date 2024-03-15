@@ -76,6 +76,9 @@
   "lesson2-discovercarousel-slide3-img-alt": "A dying plant in a polluted city.",
   "lesson2-discovercarousel-slide4-img-alt": "Unhealthy lungs vs sad and sweating planet earth with a thermometer.",
 
+  "lesson3-discovercarousel-slide1":"",
+  "lesson3-discovercarousel-slide2":"",
+  
   "discovermap-lesson4-tooltip1-h": "Natural sources",
   "discovermap-lesson4-tooltip1-desc": "The main sources of air pollution are anthropogenic. However, pollutants can also come in lesser amount from wildfires, volcanic eruptions, as well as sand and dust storms.",
   "discovermap-lesson4-tooltip2-h": "Transportation",
@@ -308,9 +311,11 @@
 
   "onboarding-finished-button": "BEGIN THE ADVENTURE",
 
+  "vr-legend-lesson3-title": "What we can’t see",
   "vr-legend-lesson7-title": "AQI map",
   "vr-legend-lesson8-title": "AQI map Barcelona",
-  
+
+  "vr-legend-lesson3-text": "Although sometimes we can see particles polluting the air, like black exhaust fumes and dust, most air pollutants are so small that we can’t see them with the naked eye but only using a microscope. Even on a seemingly clear day, the air quality can be poor. The pollutants found in the air can be inhaled, affecting our health, as well as have a negative effect on the environment.",
   "vr-legend-lesson7-text": "This is a map of the average air quality index (AQI) in Europe during autumn 2016. You can see how good the air quality is in each region based on the AQI colours. For example, the air was cleaner in Spain than Northern Italy. These data are outputs of the CALIOPE modelling system from Barcelona Supercomputing Center (more in ‘About’). Explore the map and respond to the challenge questions.",
   "vr-legend-lesson8-text": "This is a map of Barcelona, Spain, showing the air quality index (AQI) across the city at two different times on the same day. In the map, you can see how the air quality changes depending on the time. For example, poor air quality at unhealthy levels is seen in roads with more traffic or industrial areas in early morning. These data are outputs of the CALIOPE modelling system from Barcelona Supercomputing Center (more in ‘About’). Explore the map and respond the challenge questions!",
 
