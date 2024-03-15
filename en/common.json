@@ -117,11 +117,6 @@
   "lesson6-discovercarousel-slide3-img-alt": "Magnifying glass with circles that represent particles",
   "lesson6-discovercarousel-slide4-img-alt": "Smiling girl and dog with the city behind",
 
-
-  "lesson8-challenge-question1": "The air quality is better in the evening.",
-  "lesson8-challenge-question2": "It is better to exercise outdoors in the morning, as air quality is better.",
-  "lesson8-challenge-question3": "Busy roads should be avoided in the morning, because of poor air quality.",
-
   "lesson9-discoverdropdown-1-title": "When we breathe, many particles enter our body",
   "lesson9-discoverdropdown-2-title": "How long we are exposed to air pollution matters.",
   "lesson9-discoverdropdown-3-title": "There are different effects on our health depending on exposure.",
@@ -339,7 +334,7 @@
   "help-discoverdropdown-2-title": "Which lessons incorporate Augmented Reality?",
   "help-discoverdropdown-3-title": "Can I track my progress or achievements?",
   "help-discoverdropdown-4-title": "Will the app be updated?",
-  "help-discoverdropdown-5-title": "I'm experiencing technical issues. What should I do?"
+  "help-discoverdropdown-5-title": "I'm experiencing technical issues. What should I do?",
 
   "help-discoverdropdown-1-desc":"If you would like to reset your app data and progress, visit the ‘Profile’ section in the bottom menu and click on ‘Erase my data’ at the top. Note that we do not collect or save any user data from your device.",
   "help-discoverdropdown-2-desc":"Augmented reality features are incorporated in following lessons: What we can’t see; The colours of air quality; and Comparing air quality.",
