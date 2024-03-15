@@ -346,5 +346,31 @@
   "help-discoverdropdown-3-desc":"After exploring each lesson, you will reach a challenge, which puts to the test your acquired knowledge. If you respond to all questions correctly, you will complete the lesson. You can check your progress and trophies collected in your profile, found in the menu at the bottom.",
   "help-discoverdropdown-4-desc":"As the app has an educational purpose, all content is available in this version, and no further updates are expected.",
   "help-discoverdropdown-5-desc":"You can get in touch with us using the button below.",
+
+  "resources-section1-text":"To expand your knowledge on air quality, we've curated additional resources designed to further enrich your learning experience",
+  
+  "resources-card-1-title": "Axolotls",
+  "resources-card-1-description":"The insane biology of the axolotl: a genetic masterpiece",
+  "resources-card-1-alt":"",
+  "resources-card-1-type":"ARTICLE",
+  "resources-card-1-link":"https://www.britannica.com/animal/axolotl",
+
+  "resources-card-2-title": "Space travel for beginners",
+  "resources-card-2-description":"A look into the limits of space travel in graphics",
+  "resources-card-2-alt":"",
+  "resources-card-2-type":"INFOGRAPHIC",
+  "resources-card-2-link":"",
+
+  "resources-card-3-title": "GreenAIR tutorial",
+  "resources-card-3-description":"Learn more about how the GreenAir app works",
+  "resources-card-3-alt":"",
+  "resources-card-3-type":"INFOGRAPHIC",
+  "resources-card-3-link":"",
+
+  "resources-card-4-title": "Air quality and our health",
+  "resources-card-4-description":"Learn about how air quality affects your health",
+  "resources-card-4-alt":"",
+  "resources-card-4-type":"PRINT RESOURCE",
+  "resources-card-4-link":""
   
 }
