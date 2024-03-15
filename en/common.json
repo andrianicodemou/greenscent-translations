@@ -371,6 +371,9 @@
   "resources-card-4-description":"Learn about how air quality affects your health",
   "resources-card-4-alt":"",
   "resources-card-4-type":"PRINT RESOURCE",
-  "resources-card-4-link":""
-  
+  "resources-card-4-link":"",
+
+  "not-ar-compatible": "Not AR Compatible",
+  "enter-ar": "Enter AR",
+  "exit-ar": "Exit AR"
 }
