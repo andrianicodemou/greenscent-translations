@@ -370,5 +370,8 @@
 
   "not-ar-compatible": "Not AR Compatible",
   "enter-ar": "Enter AR",
-  "exit-ar": "Exit AR"
+  "exit-ar": "Exit AR",
+
+  "challenge-show": "Show Challenge",
+  "challenge-hide": "Hide Challenge"
 }
