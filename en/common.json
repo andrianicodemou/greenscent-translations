@@ -76,8 +76,8 @@
   "lesson2-discovercarousel-slide3-img-alt": "A dying plant in a polluted city.",
   "lesson2-discovercarousel-slide4-img-alt": "Unhealthy lungs vs sad and sweating planet earth with a thermometer.",
 
-  "lesson3-discovercarousel-slide1":"",
-  "lesson3-discovercarousel-slide2":"",
+  "lesson3-discovercarousel-slide1":"Take a look around the room. There are many particles in the air even if you can’t see them! In this lesson, you can explore with augmented reality how the particles in the air could look if they were visible to the human eye.",
+  "lesson3-discovercarousel-slide2":"Click on the AR button at the bottom right of your screen to view the room, and click on “Show Challenge” at the top to answer the challenge questions.",
   
   "discovermap-lesson4-tooltip1-h": "Natural sources",
   "discovermap-lesson4-tooltip1-desc": "The main sources of air pollution are anthropogenic. However, pollutants can also come in lesser amount from wildfires, volcanic eruptions, as well as sand and dust storms.",
@@ -116,6 +116,15 @@
   "lesson6-discovercarousel-slide2-img-alt": "Cilindre with particles that go from less with a happy emoji to very full with a very unhealthy emoji",
   "lesson6-discovercarousel-slide3-img-alt": "Magnifying glass with circles that represent particles",
   "lesson6-discovercarousel-slide4-img-alt": "Smiling girl and dog with the city behind",
+
+  "lesson7-discovercarousel-slide1":"Explore the map and respond to the challenge questions. You can see how good the air quality was in each region based on the AQI colours. For example, you will see that the air was cleaner in Spain than in Northern Italy in autumn 2016.",
+  "lesson7-discovercarousel-slide2":"Click on the “AR” button at the bottom right of your screen to view the map in the room you are in, and click on “Show Challenge” at the top to answer the challenge questions.",
+  "lesson7-discovercarousel-slide3":"The data shown are real outputs of the CALIOPE modelling system that is developed by the Barcelona Supercomputing Center (read more in the ‘About’ section).",
+
+  "lesson8-discovercarousel-slide1":"In the map, you can see that the air quality is at unhealthy levels at 10 am in busy roads due to early morning traffic. However, the air pollution drops across the city later in the day.",
+  "lesson8-discovercarousel-slide2":"Explore the map and respond to the challenge questions. At the bottom of the screen, select the time of day to view, and click on the “AR” button to view the map in the room you are in. Click on “Show Challenge” at the top to answer the challenge questions.",
+  "lesson8-discovercarousel-slide3":"The data shown are real outputs of the CALIOPE modelling system that is developed by the Barcelona Supercomputing Center (read more in the ‘About’ section).",
+  
 
   "lesson9-discoverdropdown-1-title": "When we breathe, many particles enter our body",
   "lesson9-discoverdropdown-2-title": "How long we are exposed to air pollution matters.",
@@ -311,8 +320,8 @@
   "vr-legend-lesson8-title": "AQI map Barcelona",
 
   "vr-legend-lesson3-text": "Although sometimes we can see particles polluting the air, like black exhaust fumes and dust, most air pollutants are so small that we can’t see them with the naked eye but only using a microscope. Even on a seemingly clear day, the air quality can be poor. The pollutants found in the air can be inhaled, affecting our health, as well as have a negative effect on the environment.",
-  "vr-legend-lesson7-text": "This is a map of the average air quality index (AQI) in Europe during autumn 2016. You can see how good the air quality is in each region based on the AQI colours. For example, the air was cleaner in Spain than Northern Italy. These data are outputs of the CALIOPE modelling system from Barcelona Supercomputing Center (more in ‘About’). Explore the map and respond to the challenge questions.",
-  "vr-legend-lesson8-text": "This is a map of Barcelona, Spain, showing the air quality index (AQI) across the city at two different times on the same day. In the map, you can see how the air quality changes depending on the time. For example, poor air quality at unhealthy levels is seen in roads with more traffic or industrial areas in early morning. These data are outputs of the CALIOPE modelling system from Barcelona Supercomputing Center (more in ‘About’). Explore the map and respond the challenge questions!",
+  "vr-legend-lesson7-text": "Maps showing the air quality index (AQI) in different locations can tell us how good the air quality is in each city or region. In this lesson, we will explore a map of the average AQI in Europe during autumn 2016.",
+  "vr-legend-lesson8-text": "Air quality can be better or worse in different streets within the same city, and can change rapidly according to the time of day. This depends on road traffic and on other sources of air pollutants (e.g. industrial areas). In this lesson, we explore the air quality index (AQI) in the city of Barcelona, Spain, shown at two different times on the same day. In the map, you will see how the air quality changes according to the time of day and the part of the city.",
 
   "about-section1-title": "GreenAIR",
   "about-section2-title": "GreenSCENT",
