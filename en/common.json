@@ -27,13 +27,13 @@
  
 
   "lesson1-intro-text": "The air is mainly composed of oxygen and nitrogen gases, as well as other gases in smaller amounts, such as nitrogen oxides, organic compounds, ozone, sulfur dioxide, and greenhouse gases. Tiny particles are also floating in the air, called particulate matter.",
-  "lesson2-intro-text": "The composition of the air changes continuously depending on the time of day, the weather, the season, and the elevation. Any particle that modifies the natural characteristics of the air is called a pollutant.Air pollution affects humans, animals, and the environment. Cars, homes, factories, farms, and other human or natural sources can all release pollutants into the air and worsen the air quality.",
+  "lesson2-intro-text": "The composition of the air changes continuously depending on the time of day, the weather, the season, and the elevation. Any particle that modifies the natural characteristics of the air is called a pollutant. Air pollution affects humans, animals, and the environment. Cars, homes, factories, farms, and other human or natural sources can all release pollutants into the air and worsen the air quality.",
   "lesson3-intro-text": "Although sometimes we can see particles polluting the air, like black exhaust fumes, most air pollutants are so small that we can’t see them with the naked eye but only using a microscope. Even on a seemingly clear day, the air quality can be poor, affecting our health and environment.",
   "lesson4-intro-text": "Our habits and everyday activities impact the environment we live in. For example, factories, vehicles, and cigarette smoke release particles in the air that are very harmful to our health. These particles are called human-made (anthropogenic) pollutants. Besides human activities, air pollutants can also come from natural sources, like dust storms and natural disasters.",
-  "lesson5-intro-text": "The air around us is never steady. Even on days with no wind, the air is always moving from one place to another. Air pollution is also always moving. The wind, rain and air patterns in the atmosphere help move air pollution around the world.Hence, regardless of where they originate, air pollutants emitted in a country can travel and affect the air quality in far away regions.",
+  "lesson5-intro-text": "The air around us is never steady. Even on days with no wind, the air is always moving from one place to another. Air pollution is also always moving. The wind, rain and air patterns in the atmosphere help move air pollution around the world. Hence, regardless of where they originate, air pollutants emitted in a country can travel and affect the air quality in far away regions.",
   "lesson6-intro-text": "Instruments on the ground and satellites orbiting around the Earth regularly analyse the air we breathe. They also monitor the presence and the quantity of the five main air pollutants: particulate matter, carbon monoxide, ozone, nitrogen dioxide and sulfur dioxide.The Air Quality Index (AQI) indicates how clean or polluted the air is.",
-  "lesson7-intro-text": "TODO",
-  "lesson8-intro-text": "TODO",
+  "lesson7-intro-text": "Maps showing the air quality index (AQI) in different locations can tell us how good the air quality is in each city or region. In this lesson, we will explore a map of the average AQI in Europe during autumn 2016.",
+  "lesson8-intro-text": "Air quality can be better or worse in different streets within the same city, and can change rapidly according to the time of day. This depends on road traffic and on other sources of air pollutants (e.g. industrial areas). In this lesson, we explore the air quality index (AQI) in the city of Barcelona, Spain, shown at two different times on the same day. In the map, you will see how the air quality changes according to the time of day and the part of the city.",
   "lesson9-intro-text": "Air pollution is a major cause of health problems and deaths in the world. Some air pollutants are present in the natural world, such as dust in deserts or ash in volcanic areas. Humans, however, are dramatically contributing to air pollution with their habits and everyday activities",
   "lesson10-intro-text":"Our activities and habits are the main sources of air pollution, and few pollutants come from nature. While we have no control over sandstorms or volcanic eruptions, changing our habits can go a long way! Whether you live in a small village or in a big city, there are a few simple actions you can take to help reduce pollution. ",
   "lesson11-intro-text":"Your green actions, such as walking, cycling, and turning off the lights, help reduce air pollution. However, to improve the quality of the air we breathe around the world, we must all work towards bigger green actions together.Local actions to reduce air pollution protect not only the health of citizens in a specific city or country,but also prevent air pollution and its harmful effects in far away places.",
@@ -51,7 +51,6 @@
   "lesson10-intro-alt": "Girl in bycicle in the city",
   "lesson11-intro-alt": "Public bus driving in the city",
 
-
   "discovercarousel-instructions": "Explore the lesson, swipe or click in the arrows to learn more",
   "discoverdropdowns-instructions": "Explore the lesson, swipe or click on the + icons to learn more about the air we breathe",
   "discovermap-instructions": "Explore the lesson, click in the  + icon to learn more about the sources of air pollution",
@@ -61,7 +60,7 @@
   "lesson1-discovercarousel-slide3": "Greenhouse gases, like carbon dioxide and methane, are found naturally in the atmosphere. In a natural process known as the greenhouse effect, they trap the Sun’s heat reflected by the Earth, keeping our planet warmer and a comfortable place to live.",
   "lesson1-discovercarousel-slide4": "The right amount of greenhouse gases in the air is essential to our survival. However, human activities, such as using fossil fuels like oil and coal, are dramatically increasing the quantity of greenhouse gases, causing the Earth to warm more.",
 
-  "lesson1-discovercarousel-slide1-img-alt": "A house with trees and floating partcles around it.",
+  "lesson1-discovercarousel-slide1-img-alt": "A house with trees and floating particles around it.",
   "lesson1-discovercarousel-slide2-img-alt": "Magnifying glass looking at particles in the air.",
   "lesson1-discovercarousel-slide3-img-alt": "The sun radiating heat at the earth.",
   "lesson1-discovercarousel-slide4-img-alt": "Sad and sweating planet earth with a thermometer.",
@@ -71,12 +70,12 @@
   "lesson2-discovercarousel-slide3": "The environment is damaged also. Air pollutants can increase the acidity of land and water (acidification), cause an overload of nutrients in water leading to algal blooms and reduce vegetation growth. Air pollution can also change the colours and clarity of landscapes.",
   "lesson2-discovercarousel-slide4": "It is important to distinguish air pollutants that are toxic for human health from greenhouse gases, which trap heat from the sun and increase the planet’s temperature, leading to global warming.",
 
-  "lesson2-discovercarousel-slide1-img-alt": "Two humanized lungs expressing anger and disapointment.",
-  "lesson2-discovercarousel-slide2-img-alt": "Bird feeling unconfortable because of air pollution",
+  "lesson2-discovercarousel-slide1-img-alt": "Two humanized lungs expressing anger and disappointment.",
+  "lesson2-discovercarousel-slide2-img-alt": "Bird feeling uncomfortable because of air pollution",
   "lesson2-discovercarousel-slide3-img-alt": "A dying plant in a polluted city.",
   "lesson2-discovercarousel-slide4-img-alt": "Unhealthy lungs vs sad and sweating planet earth with a thermometer.",
 
-  "lesson3-discovercarousel-slide1":"Take a look around the room. There are many particles in the air even if you can’t see them! In this lesson, you can explore with augmented reality how the particles in the air could look if they were visible to the human eye.",
+  "lesson3-discovercarousel-slide1":"Take a look around the room. There are many particles in the air even if you can’t see them! In this lesson, you can explore with Augmented Reality how the particles in the air could look if they were visible to the human eye.",
   "lesson3-discovercarousel-slide2":"Click on the AR button at the bottom right of your screen to view the room, and click on “Show Challenge” at the top to answer the challenge questions.",
   
   "discovermap-lesson4-tooltip1-h": "Natural sources",
@@ -85,7 +84,7 @@
   "discovermap-lesson4-tooltip2-desc":"Most air pollutants emitted into the atmosphere come from road traffic because of the use of motor vehicles, like cars and buses. Air pollutants also come from ships and planes.",
   "discovermap-lesson4-tooltip3-h": "Farming",
   "discovermap-lesson4-tooltip3-desc":"Air pollution also comes from agriculture, where tractors and farm vehicles emit combustion pollutants and animals day-to-day care emit ammonia, a gas from heavily fertilized fields and animal waste.",
-  "discovermap-lesson4-tooltip4-h":"Industry & Energy:",
+  "discovermap-lesson4-tooltip4-h":"Industry & Energy",
   "discovermap-lesson4-tooltip4-desc":"Another big source of air pollution comes from industrial facilities (e.g. factories, construction sites) that burn fossil fuels like coal, oil (petroleum) and natural gas to generate energy. When burned, fossil fuels release pollutants into the air. ",
   "discovermap-lesson4-tooltip5-h":"Human habits",
   "discovermap-lesson4-tooltip5-desc":"Pollutants are also emitted by some of our habits, for example smoking cigarettes, lighting backyard fires, or using charcoal grills.",
@@ -106,14 +105,13 @@
   "lesson5-challenge-question2": "Desert dust is the main natural source of air pollution in Europe.",
   "lesson5-challenge-question3": "Saharan dust travels across Europe and the Atlantic ocean following wind patterns.",
 
-
   "lesson6-discovercarousel-slide1": "The AQI scale is divided into five categories: good (green), moderate (yellow), unhealthy for sensitive groups (orange), unhealthy (red), and extremely unhealthy (purple). The presence and amount of air pollutants changes during the day.",
   "lesson6-discovercarousel-slide2": "When the air contains very small quantities of pollutants, the air quality is good, so the AQI shows a green colour. On the contrary, when there are high quantities of pollutants in the air, the air quality is really bad and the AQI shows a purple colour.",
   "lesson6-discovercarousel-slide3": "The air is mostly clean when there are very few pollutants: there is no risk when we breathe or do outdoor activities. On the contrary, when there are many pollutants in the air it’s not clean: our health is at risk and we should avoid outdoor activities.",
   "lesson6-discovercarousel-slide4": "AQI is particularly useful for citizens and governments. By using the AQI, we can know the condition of the air and the environment. Citizens and governments can then take measures to protect their health.",
 
   "lesson6-discovercarousel-slide1-img-alt": "Lines of the colors of AQI with emoticons that move from happy to very unhealthy",
-  "lesson6-discovercarousel-slide2-img-alt": "Cilindre with particles that go from less with a happy emoji to very full with a very unhealthy emoji",
+  "lesson6-discovercarousel-slide2-img-alt": "Cylinder with particles that go from less with a happy emoji to very full with a very unhealthy emoji",
   "lesson6-discovercarousel-slide3-img-alt": "Magnifying glass with circles that represent particles",
   "lesson6-discovercarousel-slide4-img-alt": "Smiling girl and dog with the city behind",
 
@@ -125,7 +123,6 @@
   "lesson8-discovercarousel-slide2":"Explore the map and respond to the challenge questions. At the bottom of the screen, select the time of day to view, and click on the “AR” button to view the map in the room you are in. Click on “Show Challenge” at the top to answer the challenge questions.",
   "lesson8-discovercarousel-slide3":"The data shown are real outputs of the CALIOPE modelling system that is developed by the Barcelona Supercomputing Center (read more in the ‘About’ section).",
   
-
   "lesson9-discoverdropdown-1-title": "When we breathe, many particles enter our body",
   "lesson9-discoverdropdown-2-title": "How long we are exposed to air pollution matters.",
   "lesson9-discoverdropdown-3-title": "There are different effects on our health depending on exposure.",
@@ -135,7 +132,6 @@
   "lesson9-discoverdropdown-2-desc": "Exposure to air pollutants can be last for a short time, for example during a day with a lot of pollution, or for a long time (known as chronic), when living for years in a place with polluted air. Chronic exposure to air pollution is worse for our health.",
   "lesson9-discoverdropdown-3-desc": "With short-term exposure, air pollutants can irritate our eyes, nose, throat and skin, and cause allergies, asthma attacks and respiratory infections. In the long term, they can affect our lung and heart function, causing strokes, heart diseases and lung problems.",
   "lesson9-discoverdropdown-4-desc": "Both healthy people and those with pre-existing health conditions can suffer from health problems caused by air pollution. Young children, pregnant women and old people are generally more sensitive to air pollutants.", 
-
 
   "lesson10-discovercarousel-slide1": "Walk, cycle or use public transport! Cars and other vehicle are one of the major sources of air pollution. Gasoline and diesel fuels produce air pollutants like nitrogen dioxide and carbon monoxide. Also, try to avoid streets and routes with low air quality.",
   "lesson10-discovercarousel-slide2": "Take less flights! Planes contribute to air pollution and climate change. If you have to travel over long distances, you can use the train or bus.",
@@ -147,7 +143,6 @@
   "lesson10-discovercarousel-slide3-img-alt": "Huminized bird taking the plug out from electricity",
   "lesson10-discovercarousel-slide4-img-alt": "Phone with the AQI icon inside",
 
-
   "lesson11-discoverdropdown-1-title":"More trees, less cars!",
   "lesson11-discoverdropdown-2-title":"More renewable energy!",
   "lesson11-discoverdropdown-3-title":"More education!",
@@ -156,8 +151,7 @@
   "lesson11-discoverdropdown-2-desc":"While consuming less energy can help, the energy used in homes, buildings and factories should come from renewable sources like solar and wind, to reduce air pollution from coal and gas power stations.",
   "lesson11-discoverdropdown-3-desc":"By knowing more about air pollution, citizens are empowered and can make decisions to protect their health. Also, supporting communities with less resources is important to help reduce the health effects of air quality globally.",
 
-
-
+  
   "challenge1-title": "The air we breathe Challenge",
 
   "lesson1-challenge-question1": "What is the air composed of?",
@@ -178,9 +172,7 @@
   "lesson1-challenge-question3-choice2": "Greenhouse effect.",
   "lesson1-challenge-question3-choice3": "Deserts.",
 
-
   "challenge2-title": "Air pollution Challenge",
-
 
   "lesson2-challenge-question1": "Why are air pollutants dangerous for our health?",
 
@@ -194,13 +186,11 @@
   "lesson2-challenge-question2-choice2": "Pollutants increase the clarity of a landscape.",
   "lesson2-challenge-question2-choice3": "Pollutants increase the acidity of land and water.",
 
-
   "lesson2-challenge-question3": "Which of the following is incorrect?",
 
   "lesson2-challenge-question3-choice1": "Air pollutants affect our health.",
   "lesson2-challenge-question3-choice2": "Air pollutants don’t affect animals, only humans.",
   "lesson2-challenge-question3-choice3": "Air pollutants worsen the quality of the air we breathe.",
-
 
   "challenge4-title": "A matter of habits Challenge",
 
